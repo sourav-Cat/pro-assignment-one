@@ -10,5 +10,20 @@
 
 
 .header{
-    background-image: url('../pro-assignment-one/assets/Hero-bg.png');
+   
+background-image: url("assets/Hero-bg.png");
+background-size:contain;
+    background-repeat: no-repeat;
+    height:auto;
+}
+.coding img
+{
+  
+}
+.footer
+{
+  background-image: url("assets/handshake.jpg");
+  background-size: contain;
+  height: 300px;
+  width:100%;
 }
