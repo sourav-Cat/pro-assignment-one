@@ -26,4 +26,5 @@ background-size:contain;
   background-size: contain;
   height: 300px;
   width:100%;
+  background-repeat: no-repeat;
 }
